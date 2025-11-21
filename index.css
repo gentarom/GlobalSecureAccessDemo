@@ -72,12 +72,12 @@ footer {
     padding-top: 80px;
   }
 }
-.csstable1 table{
+table.csstable1{
   width:98%; 
   border-collapse: collapse; 
   margin-top: 20px;
 }
-.csstable1 table th, .csstable table td{
+table.csstable1 th, table.csstable1 td{
   border:1px solid #ccc; 
   padding:8px; 
   text-align:left
