@@ -79,6 +79,7 @@ footer {
 }
 .csstable1 th, 
 .csstable1 td{
+  width:50%;
   border:1px solid #ccc; 
   padding:8px; 
   text-align:left
