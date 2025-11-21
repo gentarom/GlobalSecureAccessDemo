@@ -78,6 +78,11 @@ footer {
   border-collapse: collapse; 
   margin-top: 20px;
 }
+.csstable1 td{
+  border:1px solid #ccc; 
+  padding:8px; 
+  text-align:left
+}
 .thDemo, thDocs{
   width:40%;
   border:1px solid #ccc; 
@@ -86,11 +91,6 @@ footer {
 }
 .thDate{
   width:20%;
-  border:1px solid #ccc; 
-  padding:8px; 
-  text-align:left
-}
-.csstable1 td{
   border:1px solid #ccc; 
   padding:8px; 
   text-align:left
