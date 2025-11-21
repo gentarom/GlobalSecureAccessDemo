@@ -78,9 +78,14 @@ footer {
   border-collapse: collapse; 
   margin-top: 20px;
 }
-.csstable1 th, 
-.csstable1 td{
-  width:50%;
+.thDemo, thDocs{
+  width:40%;
+  border:1px solid #ccc; 
+  padding:8px; 
+  text-align:left
+}
+.thDate{
+  width:20%;
   border:1px solid #ccc; 
   padding:8px; 
   text-align:left
