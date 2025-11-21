@@ -90,4 +90,9 @@ footer {
   padding:8px; 
   text-align:left
 }
+.csstable1 td{
+  border:1px solid #ccc; 
+  padding:8px; 
+  text-align:left
+}
 
